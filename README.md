@@ -1,4 +1,6 @@
 # imcflutter_dart
+The application was built only in dart/flutter, it was not adapted for android or ios.
+But it was built for android and ios
 
 ##SCREENSHOT
 
