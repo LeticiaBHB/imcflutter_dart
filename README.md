@@ -5,7 +5,7 @@
 | Image |
 |----------|
 | ![App Screenshot](screenshot/home.jpg) |
-this is an application to calculate your body mass index, when calculated it will appear a sentence below the calculate, where it will say if you are with ideal weight, underweight, slightly overweight, obesity I, obesity II, obesity III
+This is an application to calculate your body mass index, when calculated it will appear a sentence below the calculate, where it will say if you are with ideal weight, underweight, slightly overweight, obesity I, obesity II, obesity III
 
 ##LICENSE
 MIT License
